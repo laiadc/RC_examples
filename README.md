@@ -7,3 +7,11 @@ In this repository, we explore the echo states properties and show how to proper
 
 + **EchoStates_Properties-Periodic.ipynb**: In this notebook we are going to check some of the echo state properties of Reservoir Computing.
 + **Training_Periodic_function.ipynb**: In this notebook we explore different strategies and tricks to train a neural network in the context of Reservoir Computing. In particular, we will use the reservoir computing model to predict a periodic dynamics. 
+
+
+### BibTex reference format for citation for the Code
+```
+@misc{DomingoRC,
+title={Reservoir Computing examples},
+url={https://github.com/laiadc/RC_examples/},
+note={GitHub repository containing a guide to train a reservoir computing model.},
